@@ -28,3 +28,4 @@ type Mutation {
     removeBook(bookId: String!): User
 }
 `
+module.exports = typeDefs;
